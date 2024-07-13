@@ -1,2 +1,5 @@
 this is file2 for git course
 adding new content in file 2
+
+
+working on master branch 1 fixed
