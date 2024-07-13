@@ -6,3 +6,4 @@ another fixed on master branch.
 
 
 
+another fix message for purple mode.
